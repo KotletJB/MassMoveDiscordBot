@@ -13,7 +13,7 @@ from massmove import MassMove
 # Token is stored in Heroku environment to avoid
 # the vulnerability of private Discord bot key exposed to public
 
-with open('../token_BHL_DS.txt') as f:
+with open('../token2_BHL_DS.txt') as f:
     TOKEN = f.read().strip()
 print(discord.__version__)
 intents = discord.Intents.default()
