@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import asyncio
 
-CONTROL_PANEL_ID = 635919393179828226
+CONTROL_PANEL_ID = 793785235417464893
 EMOJI = '🟢'
 
 def perms_to_move():
