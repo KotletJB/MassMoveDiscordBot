@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 from os import environ
 import discord
 from discord.ext import commands
